@@ -1,0 +1,18 @@
+Given I have opened the ebay website
+The system shall present me with a search button
+
+Given I have opened the ebay website
+The system shall present me a search field
+
+Given I have opened the ebay website
+When I select to Register
+The system shall present me with a first name, surname, email and password field
+
+Given I have opened the ebay website
+When I select to Register
+The system shall present me with an "email or username" field
+
+Given I have opened the ebay website
+When I input text into the search box
+And select to search
+The system shall present me with a list of items related to my search
